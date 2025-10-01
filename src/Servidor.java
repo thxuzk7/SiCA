@@ -4,7 +4,7 @@ import java.net.Socket;
 
 public class Servidor
     {
-        private static final int PORTA = 8080; // Define a porta em que o servidor irá escutar
+        private static final int PORTA = 5050; // Define a porta em que o servidor irá escutar
 
         public static void main(String[] args)
             {
