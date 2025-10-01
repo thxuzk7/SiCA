@@ -1,4 +1,5 @@
 SiCA - Sistema Cliente-Servidor
+
 SiCA é um projeto em Java que implementa uma arquitetura Cliente-Servidor, permitindo que múltiplas máquinas em uma mesma rede local troquem informações e documentos de forma prática e eficiente.
 
 Requisitos
